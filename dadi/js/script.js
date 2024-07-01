@@ -16,3 +16,26 @@ else{
 }
 
 //errore: nessuna voce in console
+
+//faccio uscire a video
+const user_icon = document.getElementById('user_number');
+const pc_icon = document.getElementById('pc_number');
+
+if (user_number == 1) {
+    user_icon.classList.add('fa-dice-one');
+}
+else if( user_number ==2) {
+    user_icon.classList.add('fa-dice-two');
+}
+else if( user_number ==3) {
+    user_icon.classList.add('fa-dice-three');
+}
+else if( user_number ==4) {
+    user_icon.classList.add('fa-dice-four');
+}
+else if( user_number ==5) {
+    user_icon.classList.add('fa-dice-five');
+}
+else  {
+    user_icon.classList.add('fa-dice-six');
+}
