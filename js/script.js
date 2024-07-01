@@ -41,7 +41,7 @@ else  {
 }
 
 
-//pc
+//user
 if (user_number == 1) {
     user_icon.classList.add('fa-dice-one');
 }
@@ -60,3 +60,6 @@ else if( user_number ==5) {
 else  {
     user_icon.classList.add('fa-dice-six');
 }
+
+
+//ho provato a correggere l'errore ma senza risultato
