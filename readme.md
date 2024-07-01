@@ -18,3 +18,11 @@ Consigli del giorno:
 4. torniamo a scrivere in italiano
 5. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente: (modificato) 
+
+ES MAIL:
+1. realizzare prompt (o input in html) per permettere l'inserimento della mail ll'utente
+2. realizzare un array con degli indirizzi email
+3. ciclare l'array
+4. ? se l'indirizzo inserito dall'utente è uguale alla mail attualmente iterata allora 
+    => mostro il messaggio che l'utente è presente
+5. : altrimenti non faccio nulla
