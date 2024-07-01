@@ -20,9 +20,12 @@ Consigli del giorno:
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente: (modificato) 
 
 ES MAIL:
-1. realizzare prompt (o input in html) per permettere l'inserimento della mail ll'utente
-2. realizzare un array con degli indirizzi email
-3. ciclare l'array
-4. ? se l'indirizzo inserito dall'utente è uguale alla mail attualmente iterata allora 
+1. realizzare prompt (o input in html) per permettere l'inserimento della mail ll'utente x
+2. realizzare un array con degli indirizzi email x
+3. recupero pulsante dal dom 
+4. gli dico di rimanere in attesa dell'evento click
+5. quando il pulsante viene cliccato
+5. ciclare l'array
+6. ? se l'indirizzo inserito dall'utente è uguale alla mail attualmente iterata allora 
     => mostro il messaggio che l'utente è presente
-5. : altrimenti non faccio nulla
+7. : altrimenti non faccio nulla
