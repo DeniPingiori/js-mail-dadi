@@ -14,3 +14,5 @@ else if(user_number < pc_number) {
 else{
     console.log('pareggio');
 }
+
+//errore: nessuna voce in console
